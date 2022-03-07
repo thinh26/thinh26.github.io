@@ -1,0 +1,3 @@
+body {background-color: powderblue;}
+table, th, td {border: 2px solid red; border-radius: 10px;}
+.myDiv { border: 5px outset blue; text-align: center;}
